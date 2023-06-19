@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test Automation"  thread-count = "5" >
+
+	<listeners>
+        <listener class-name="com.qa.utilities.Reporting" />
+    </listeners>
+
+
+
+  <test thread-count="5" name="Cabs booking Chrome"  >
+ 	<parameter name="browser" value="chrome"></parameter>
+ 	
+    <classes>
+
+     <class name="com.qa.testscripts.Cabstestscript">
+
+     </class>
+    </classes>
+  </test> 
+  
+ 
+  
+</suite>
+            

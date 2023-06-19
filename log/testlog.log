@@ -1,0 +1,31 @@
+2021-01-20 21:59:40,337 - Goibibo -INFO - outstation cabs selected
+2021-01-20 22:00:05,681 - Goibibo -INFO - completed the test case
+2021-01-20 22:01:12,585 - Goibibo -INFO - completed the test case
+2021-01-20 22:01:39,693 - Goibibo -INFO - completed the test case
+2021-01-20 22:45:38,847 - Goibibo -INFO - cabs page is loaded
+2021-01-20 22:45:40,150 - Goibibo -INFO - outstation cabs selected
+2021-01-20 22:45:59,041 - Goibibo -ERROR - Contact details are entered.
+2021-01-20 22:46:04,568 - Goibibo -INFO - payment page is loaded
+2021-01-20 22:46:04,570 - Goibibo -INFO - completed onewaytrip cab booking test case
+2021-01-20 22:46:06,125 - Goibibo -INFO - cabs page is loaded
+2021-01-20 22:46:18,272 - Goibibo -INFO - loctions are entered
+2021-01-20 22:46:23,950 - Goibibo -INFO - time and date are entered.
+2021-01-20 22:46:33,770 - Goibibo -INFO - Details are entered.
+2021-01-20 22:46:39,203 - Goibibo -INFO -  paymentpage is loaded..!
+2021-01-20 22:46:39,204 - Goibibo -INFO - Roundtrip Cab booking testcase completed. 
+2021-01-20 22:46:42,462 - Goibibo -INFO - cabs page is loaded
+2021-01-20 22:46:45,470 - Goibibo -INFO - airportcabs selected.
+2021-01-20 22:46:57,877 - Goibibo -INFO - booking details are entered
+2021-01-20 22:47:09,215 - Goibibo -INFO - details are entered.
+2021-01-20 22:47:12,884 - Goibibo -INFO -  paymentpage is loaded..!
+2021-01-20 22:47:12,888 - Goibibo -INFO - completed the airport cabs booking test case
+2021-01-20 22:47:14,816 - Goibibo -INFO - cabs page is loaded
+2021-01-20 22:47:23,238 - Goibibo -INFO - same source and destination is entered. 
+2021-01-20 22:47:25,328 - Goibibo -INFO - error message is : Source and destination cannot be same
+2021-01-20 22:47:25,968 - Goibibo -INFO - negative onewaytrip booking testcase is completed.
+2021-01-20 22:47:26,543 - Goibibo -INFO - cabs page is loaded
+2021-01-20 22:47:37,176 - Goibibo -INFO - negative roundtrip cab booking  testcase is completed.
+2021-01-20 22:47:37,176 - Goibibo -INFO - cabs booking module is completed..!!
+2021-01-20 23:00:01,351 - Goibibo -INFO - cabs page is loaded
+2021-01-20 23:00:03,966 - Goibibo -INFO - outstation cabs selected
+2021-01-20 23:00:14,382 - Goibibo -INFO - cabs page is loaded

@@ -1,0 +1,31 @@
+2021-01-20 21:59:40,337 [TestNG-tests-1] INFO Goibibo - outstation cabs selected
+2021-01-20 22:00:05,681 [TestNG-tests-1] INFO Goibibo - completed the test case
+2021-01-20 22:01:12,585 [TestNG-tests-1] INFO Goibibo - completed the test case
+2021-01-20 22:01:39,693 [TestNG-tests-1] INFO Goibibo - completed the test case
+2021-01-20 22:45:38,847 [TestNG-tests-1] INFO Goibibo - cabs page is loaded
+2021-01-20 22:45:40,150 [TestNG-tests-1] INFO Goibibo - outstation cabs selected
+2021-01-20 22:45:59,041 [TestNG-tests-1] ERROR Goibibo - Contact details are entered.
+2021-01-20 22:46:04,568 [TestNG-tests-1] INFO Goibibo - payment page is loaded
+2021-01-20 22:46:04,570 [TestNG-tests-1] INFO Goibibo - completed onewaytrip cab booking test case
+2021-01-20 22:46:06,125 [TestNG-tests-1] INFO Goibibo - cabs page is loaded
+2021-01-20 22:46:18,272 [TestNG-tests-1] INFO Goibibo - loctions are entered
+2021-01-20 22:46:23,950 [TestNG-tests-1] INFO Goibibo - time and date are entered.
+2021-01-20 22:46:33,770 [TestNG-tests-1] INFO Goibibo - Details are entered.
+2021-01-20 22:46:39,203 [TestNG-tests-1] INFO Goibibo -  paymentpage is loaded..!
+2021-01-20 22:46:39,204 [TestNG-tests-1] INFO Goibibo - Roundtrip Cab booking testcase completed. 
+2021-01-20 22:46:42,462 [TestNG-tests-1] INFO Goibibo - cabs page is loaded
+2021-01-20 22:46:45,470 [TestNG-tests-1] INFO Goibibo - airportcabs selected.
+2021-01-20 22:46:57,877 [TestNG-tests-1] INFO Goibibo - booking details are entered
+2021-01-20 22:47:09,215 [TestNG-tests-1] INFO Goibibo - details are entered.
+2021-01-20 22:47:12,884 [TestNG-tests-1] INFO Goibibo -  paymentpage is loaded..!
+2021-01-20 22:47:12,888 [TestNG-tests-1] INFO Goibibo - completed the airport cabs booking test case
+2021-01-20 22:47:14,816 [TestNG-tests-1] INFO Goibibo - cabs page is loaded
+2021-01-20 22:47:23,238 [TestNG-tests-1] INFO Goibibo - same source and destination is entered. 
+2021-01-20 22:47:25,328 [TestNG-tests-1] INFO Goibibo - error message is : Source and destination cannot be same
+2021-01-20 22:47:25,968 [TestNG-tests-1] INFO Goibibo - negative onewaytrip booking testcase is completed.
+2021-01-20 22:47:26,543 [TestNG-tests-1] INFO Goibibo - cabs page is loaded
+2021-01-20 22:47:37,176 [TestNG-tests-1] INFO Goibibo - negative roundtrip cab booking  testcase is completed.
+2021-01-20 22:47:37,176 [TestNG-tests-1] INFO Goibibo - cabs booking module is completed..!!
+2021-01-20 23:00:01,351 [main] INFO Goibibo - cabs page is loaded
+2021-01-20 23:00:03,966 [main] INFO Goibibo - outstation cabs selected
+2021-01-20 23:00:14,382 [main] INFO Goibibo - cabs page is loaded
